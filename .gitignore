@@ -13,3 +13,6 @@ bin/
 # PyCharm files
 .idea/
 .cursorignore
+
+# Jupyter Notebook
+.ipynb_checkpoints
